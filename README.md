@@ -1660,7 +1660,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/AbhishekKr11511">
-                    <img src="https://avatars.githubusercontent.com/u/128050928?v=4" width="100px;" alt="Salmankhan"/>
+                    <img src="https://avatars.githubusercontent.com/u/128050928?v=4" width="100px;" alt="Abhishek Bacchan"/>
                     <br />
                     <sub><b>Abhishek</b></sub>
                 </a>
